@@ -1,0 +1,11 @@
+Sample_ID,Ground_Truth,AI_Prediction,Confidence,Result
+1,Great Tinamou,Great Tinamou,78.91,Correct
+2,Solitary Tinamou,Solitary Tinamou,83.27,Correct
+3,White-throated Tinamou,Great Tinamou,63.07,Incorrect
+4,Grey Tinamou,Unknown,39.73,Rejected
+5,Small-billed Tinamou,Great Tinamou,81.87,Incorrect
+6,Unknown,Solitary Tinamou,90.16,Incorrect
+7,Unknown,Small-billed Tinamou,96.85,Incorrect
+8,Unknown,Solitary Tinamou,85.57,Incorrect
+9,Unknown,Great Tinamou,94.48,Incorrect
+10,Unknown,Great Tinamou,92.43,Incorrect
